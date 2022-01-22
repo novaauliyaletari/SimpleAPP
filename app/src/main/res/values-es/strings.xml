@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Gatos, Perros &amp; Cocodrilo Pedia</string>
+    // Layout
+    <string name="pilih_gambar">(Seleccione la imagen para abrir la galería)</string>
+    <string name="daftar_ras_judul">Lista de razas de animales</string>
+    <string name="go_back">Regreso</string>
+    <string name="kucing">Gato</string>
+    <string name="anjing">Perro</string>
+    <string name="rusa">Cocodrilo</string>
+    <string name="kucing_list_title">Lista de gatos</string>
+    <string name="anjing_list_title">Lista de razas de perros</string>
+    <string name="rusa_list_title">Lista de razas de cocodrilos</string>
+    // Data kucing
+    <string name="angora_nama">Angora</string>
+    <string name="angora_asal">pavo</string>
+    <string name="angora_deskripsi">Originario de Ankara, Turquía con la característica de pelo largo y suave.</string>
+    <string name="bengal_nama">Bengala</string>
+    <string name="bengal_asal">inglés</string>
+    <string name="bengal_deskripsi">Es el resultado de un cruce entre un gato leopardo asiático y un gato doméstico británico.</string>
+    <string name="birmani_nama">Birmania</string>
+    <string name="birmani_asal">Birmania/Myanmar</string>
+    <string name="birmani_deskripsi">Se dice que originalmente era una raza de gato que acompañaba a los monjes que se asentaban en los templos de Birmania.</string>
+    <string name="persia_nama">persa</string>
+    <string name="persia_asal">Irán</string>
+    <string name="persia_deskripsi">Un gato de pelo largo con cara redonda y nariz chata. Originario de Irán y luego importado a Italia</string>
+    <string name="siam_nama">Siam</string>
+    <string name="siam_asal">Tailandia</string>
+    <string name="siam_deskripsi">Un gato derivado del Wichian Maat (gato tailandés) con un característico cuerpo alargado y esbelto, cara ovalada, orejas anchas y ojos azulados.</string>
+    <string name="siberia_nama">Siberia</string>
+    <string name="siberia_asal">Rusia</string>
+    <string name="siberia_deskripsi">Gato doméstico ruso con pelaje grueso y cuerpo grande pero muy ágil y famoso por su habilidad para saltar</string>
+    // Data anjing
+    <string name="bulldog_nama">buldog</string>
+    <string name="bulldog_asal">inglés</string>
+    <string name="bulldog_deskripsi">Un perro popular conocido por su cuerpo regordete y musculoso, cara arrugada y nariz chata.</string>
+    <string name="husky_nama">Husky</string>
+    <string name="husky_asal">Alaska, Siberia, Finlandia (áreas nevadas)</string>
+    <string name="husky_deskripsi">Una raza especial de perro que originalmente se usaba para tirar de trineos.</string>
+    <string name="kintamani_nama">Kintamani</string>
+    <string name="kintamani_asal">Indonesia</string>
+    <string name="kintamani_deskripsi">Razas de perros autóctonas de la isla de Bali </string>
+    <string name="samoyed_nama">Samoyed</string>
+    <string name="samoyed_asal">Rusia</string>
+    <string name="samoyed_deskripsi">Perros originarios de Siberia que originalmente fueron utilizados para cuidar el ganado por la tribu Samoyedo.</string>
+    <string name="shepherd_nama">Shepherd</string>
+    <string name="shepherd_asal">alemán</string>
+    <string name="shepherd_deskripsi">Perro inteligente y fuerte, ahora ampliamente utilizado como perro guardián, guardaespaldas y perro policía (K9)</string>
+    <string name="shiba_nama">Shiba</string>
+    <string name="shiba_asal">Japón</string>
+    <string name="shiba_deskripsi">Este perro de la zona de Shiba es ágil y ágil por lo que originalmente se usaba mucho para cazar</string>
+    // Data kucing
+    <string name="timorsis_nama">Gavial</string>
+    <string name="timorsis_asal">India</string>
+    <string name="timorsis_deskripsi">Gavial es uno de los crocodilia más largos de todos los crocodilia que viven hoy en día, midiendo hasta 6,25 m (20,5 pies).</string>
+    <string name="unicolor_nama">Irian</string>
+    <string name="unicolor_asal">Papuasia</string>
+    <string name="unicolor_deskripsi">Una de las especies de cocodrilos que se encuentran dispersándose en las aguas dulces del interior de la isla de Papúa.</string>
+
+</resources>
